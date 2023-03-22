@@ -1,2 +1,6 @@
 This is a test...
+<<<<<<< HEAD
 Or not...
+=======
+Or is it?
+>>>>>>> feature
